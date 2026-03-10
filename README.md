@@ -5,13 +5,6 @@ Product marketer blending data science and visual design, based in San Francisco
 MBA candidate at **UC Berkeley, Haas School of Business** (2027).
 MS in Business Analytics from **UW–Madison**.
 
-## What I build
-
-- 🌐 [kunli.co](https://kunli.co) — Personal portfolio
-- 📡 [luma-event-monitor](https://github.com/liuyixiaohu/luma-event-monitor) — Daily Bay Area tech & AI event digest via GitHub Actions
-- 💼 [new-position-monitor](https://github.com/liuyixiaohu/new-position-monitor) — Job position tracker across 18 companies and 9 ATS platforms
-- 🔍 [claude-skill-website-qa](https://github.com/liuyixiaohu/claude-skill-website-qa) — Automated visual QA for any website — 63 checks across 7 device sizes
-
 ## What I work with
 
 **Marketing & GTM**
